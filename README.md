@@ -1,2 +1,2 @@
 # Week_14_Assignment_02
- Assignment 2 of module 14 of the MIT X-Pro game dev course. This repository contains the modified starter modules.
+ Assignment 2 of module 14 of the MIT X-Pro game dev course. This repository contains the modified starter modules. In the modified module, the player can kick around a soccer ball, leaving behind a yellow trail. The is a goal into which the ball can be kicked.
